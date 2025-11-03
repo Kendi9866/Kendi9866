@@ -1,5 +1,5 @@
 ### Welcome to my Profile! 👋
-Hi there! I'm Gabriel Kendi, a 19-year-old currently enrolled in a multiplatform software development course. I'm passionate about crafting innovative solutions and diving deep into the world of web and software development.
+Hi there! I'm Gabriel Kendi, a 20-year-old currently enrolled in a multiplatform software development course. I'm passionate about crafting innovative solutions and diving deep into the world of web and software development.
 
 ![Kendas GitHub stats](https://github-readme-stats.vercel.app/api?username=Kendi9866&show_icons=true&theme=dracula)
 
